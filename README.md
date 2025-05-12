@@ -1,4 +1,4 @@
-Here’s a suggested `README.md` file for the `Wasser-random-app` repository:
+
 
 ---
 
@@ -47,4 +47,4 @@ This repository contains the Android application files for the Wasser Random App
 
 ---
 
-Let me know if you’d like any changes or additional details!
+
